@@ -1,5 +1,5 @@
 # speech-recognition-app
-# 🗣️ Speech Recognition App (Python)
+#  Speech Recognition App (Python)
 
 This is a command-line based Speech Recognition App built in Python. It allows users to transcribe speech from their microphone using multiple recognition APIs, choose their spoken language, and save the transcription to a file. It also supports pause and resume functionality during live transcription.
 
